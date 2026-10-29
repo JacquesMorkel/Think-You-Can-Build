@@ -11,7 +11,11 @@ Think You Can Build is a proposed live problem-solving show and graduate talent 
 
 ## Project status
 
-This repository currently contains concept documentation, published via GitHub Pages at the live link above. There is no working web application or production deployment yet. The team is planning to build a small hackathon prototype and validate the format before developing the full platform.
+This repository contains the concept documentation and a responsive, static landing-page wireframe styled from the pitch deck’s white, navy, and mint visual system. The wireframe is an early visual prototype; it has no backend, and its signup forms do not send or store submissions. The concept has not yet been piloted or validated with graduates and employers.
+
+## Preview the wireframe
+
+Open `index.html` directly in a browser, or serve the repository root with any static file server. The page includes the graduate entry flow, challenge overview, process timeline, facilitator profile placeholder, and business challenge submission form. The forms show a local prototype confirmation only.
 
 ## Planned technologies
 
@@ -25,11 +29,12 @@ The MVP may use existing tools for calls and streaming (Teams or Google Meet, pl
 
 ## Setup and running
 
-There is no runnable application in this repository yet, so there are currently no install or run commands. Once the prototype is added, this section will list the required software, environment variables, installation steps, and development commands.
+The landing-page wireframe uses plain HTML, CSS, and JavaScript and has no install step or build command. The MERN stack remains a proposed direction for a future application, not a dependency of this prototype.
 
 ## Current limitations
 
-- No application code or deployable prototype is included yet.
+- No backend, database, or connected form submission is included yet.
+- Images and video are wireframe placeholders and should be replaced with approved assets.
 - No graduate or employer research, pilot, or user testing has been completed.
 - No employer partners, challenge submissions, bounties, or internships are confirmed.
 - Proposed cash rewards and job opportunities depend on future company agreements.
