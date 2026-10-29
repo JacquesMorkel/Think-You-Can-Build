@@ -15,7 +15,7 @@ This repository contains the concept documentation and a responsive, static land
 
 ## Preview the wireframe
 
-Open `index.html` directly in a browser, or serve the repository root with any static file server. The page includes the graduate entry flow, challenge overview, process timeline, facilitator profile placeholder, and business challenge submission form. The forms show a local prototype confirmation only.
+Open `index.html` directly in a browser, or serve the repository root with any static file server. The page includes the graduate entry flow, challenge overview, the experience-gap context (Stats SA Q2 2026), process timeline and draft session agenda, the 1–5 assessment rubric, rewards and fair-play safeguards, facilitator profile placeholder, business challenge submission form, roadmap status, and an FAQ — all drawn from the project documentation. The forms show a local prototype confirmation only.
 
 ## Planned technologies
 
