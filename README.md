@@ -4,13 +4,14 @@
 
 Think You Can Build is a proposed live problem-solving show and graduate talent showcase. Graduates attempt the same computer-based business challenge in a facilitated session, making their reasoning, communication, and solution approach visible to reviewers and viewers.
 
+## Links
+
+- **Repository:** https://github.com/JacquesMorkel/Think-You-Can-Build
+- **Live prototype:** https://jacquesmorkel.github.io/Think-You-Can-Build/
+
 ## Project status
 
-This repository currently contains concept documentation only. There is no working web application, prototype, or production deployment yet. The team is planning to build a small hackathon prototype and validate the format before developing the full platform.
-
-## Project documentation
-
-- [Project documentation](docs/project-documentation.md): problem context, stakeholders, proposed intervention, MVP scope, assumptions, evidence, risks, and validation plan.
+This repository currently contains concept documentation, published via GitHub Pages at the live link above. There is no working web application or production deployment yet. The team is planning to build a small hackathon prototype and validate the format before developing the full platform.
 
 ## Planned technologies
 
